@@ -3,7 +3,7 @@
 - 🌱 I’m currently working with golang, microservices, CI/CD, web3.0.
 - 💞️ I’m looking to collaborate on products involving those.
 - 📫 How to reach me email: marcelezenagu92@gmail.com 
-    WhatsApp:+2348182090541
+    WhatsApp:+2349160798388
 
 <!---
 marcelEzenagu/marcelEzenagu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
