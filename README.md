@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @marcelEzenagu
-- 👀 I’m interested in continuous growth in the software development field. I'm experienced with golang, nodeJs, java-script, react, react-native and with prior exposure to Django. 
-- 🌱 I’m currently working with golang, microservices, CI/CD, web3.0.
-- 💞️ I’m looking to collaborate on products involving those.
-- 📫 How to reach me email: marcelezenagu92@gmail.com 
-    WhatsApp:+2349160798388
+### Marcel Ezenagu — Backend Engineer | Go • Node.js • React
+Adventurous builder, fast at grasping new concepts, turning them into scalable products  and shipping. Remote worldwide.
 
-<!---
-marcelEzenagu/marcelEzenagu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+MSc Information Engineering — now on 10x lifestyle, building products that make real impact.
+
+Stack: Go (Gin), Node.js (NestJS), React, Stripe, MongoDB, Redis, Postgres, Docker, CI/CD
+
+Contact: linkedin.com/in/marceleezenagu
